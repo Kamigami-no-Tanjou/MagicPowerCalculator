@@ -1,10 +1,8 @@
 # MagicPowerCalculator
-Un petit logiciel en Java avec une interface Swing qui calcule pour nous la puissance magique d'un personnage en fonction de son âge via la fonction dédiée
-## Je veux l'installer !
-Rien de plus simple.<br>
-Vous pouvez soit le télécharger en rejoignant mon serveur discord : https://discord.gg/g6XuGQTKZd<br>
-Ou simplement parcourir les releases dans le volet de droite ou en suivant ce lien : https://github.com/RedNeath/MagicPowerCalculator/releases
-## Je veux le modifier !
-Dans ce cas, je vous invite à télécharger le répertoire dans son intégralité, pour disposer du code source (src), de fichiers déjà compilés (class), d'un espace de travail vscode (ws) et surtout de la documentation (doc).<br>
+A Java piece of software, using Swing for its interface. It enables users to compute the magic power of a character given its age thanks to the dedicated function
+## How to install
+It's fairly simple! All you need to do is to go to the release tab and download the jar file. Then just follow the instructions and you'll be rapidly done.
+## I want to modify it!
+Well, you just have to fork this repo and make your changes. Afterwards you'll just have to compile the newly modified sources and boom, you're done!<br>
 <br>
-Amusez-vous bien !
+Enjoy!
